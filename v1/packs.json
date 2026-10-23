@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "pt-br-antonio.zip", "bytes": 62568649, "sha256": "3c86f7fe2cb5acd9760faf9f8d3f07096c650de880b8da46020bbe4a913a8c63"}
+  ]
+}
